@@ -24,7 +24,7 @@ ______$_______________________ _$
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="fr" class="no-js">
+<html lang="en-gb" class="no-js">
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
@@ -34,7 +34,7 @@ ______$_______________________ _$
     <![endif]-->
 <title>WYNWOOD ATRIUMS --- Florida Residence</title>
 <meta name="description" content="">
-<meta name="author" content="vdmk" >
+<meta name="author" content="WebThemez">
 <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -62,16 +62,14 @@ ______$_______________________ _$
       <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
-          <li><a href="#contactUs" style="color: black; font-weight: bold;position: relative;" >Prenez contact au 07 56 78 79 96</a></li>
-          <li class="active" id="firstLink"><a href="#home" class="scroll-link">accueil</a></li>
-          <li><a href="#service" class="scroll-link">projet</a></li>
-          <li><a href="#aboutUs" class="scroll-link">Qui sommes-nous</a></li>
-          <li><a href="#team" class="scroll-link">Notre équipe </a></li>
-          <li><a href="#contactUs" class="scroll-link">Contactez-nous</a></li>
-          <li><a id="language" href="index.html" >English</a>
-<!--           <li><a id="language" href="french.html" >Français</a>
- --><!--           <li><a href="index.html" id="language"><img src="images/uk.png" width="30px" height="20px"></a></li>
- -->     </ul>
+          <li><a href="#contactUs" style="color: black; font-weight: bold;position: relative;" >Call Us at +1(786) 301-8197</a></li>
+          <li class="active" id="firstLink"><a href="#home" class="scroll-link">Home</a></li>
+          <li><a href="#service" class="scroll-link">Project</a></li>
+          <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
+          <li><a href="#team" class="scroll-link">Team</a></li>
+          <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
+          <li><a id="language" href="french.html" >Français</a>
+     </ul>
       </div>
       <!--/.navbar-collapse--> 
     </nav>
@@ -96,7 +94,7 @@ ______$_______________________ _$
     <div class="container">
           <div class="carousel-caption">
 <!--             <h3>Providing you the Best</h3>
- --> -->            <h1>WYNWOOD ATRIUMS</h1>
+ -->            <h1>WYNWOOD ATRIUMS</h1>
             <p>Florida Residence</p>
           </div>
         </div>
@@ -105,7 +103,7 @@ ______$_______________________ _$
       <div class="container">
           <div class="carousel-caption">
 <!--             <h3>Providing you the Best</h3>
- -->              <h1>WYNWOOD ATRIUMS</h1>
+ -->            <h1>WYNWOOD ATRIUMS</h1>
             <p>Florida Residence</p>
           </div>
         </div>
@@ -114,7 +112,7 @@ ______$_______________________ _$
     <div class="container">
           <div class="carousel-caption">
 <!--             <h3>Providing you the Best</h3>
- -->              <h1>WYNWOOD ATRIUMS</h1>
+ -->            <h1>WYNWOOD ATRIUMS</h1>
             <p>Florida Residence</p>
           </div>
         </div>
@@ -128,12 +126,13 @@ ______$_______________________ _$
   </div>  
   
   <div class="container hero-text2" id="service">
-  
-  <h1>WYNWOOD ATRIUMS</h1> 
-  <h2>Fantastique opportunité d’investissement clé en main sans restrictions de location au cœur de Miami Wynwood Art district
-</h2>
-  <h3>Pas de restriction locative (rare à Miami) : location court terme de type Airbnb possible. 
-        Ce projet est une très bonne opportunité d'investissement!</h3>
+    <br>
+      <h2>Residential rental properties opportunity with no rental restrictions Located in the heart of Wynwood Art
+<!--        <h1>WYNWOOD ATRIUMS</h1>
+ -->        
+     District</h2>
+     <h3>Atriums will have NO rentals restrictions meaning that they can be rented daily in AirB&amp;B or be leased month to month. 
+        This project is a very good investment opportunity!</h3>
   </div>
 </section>
 <section id="services" class="page-section colord">
@@ -141,28 +140,28 @@ ______$_______________________ _$
     <div class="row"> 
       <!-- item -->
       <div class="col-md-3 text-center"> <i class="circle"><img src="images/3.png" alt="icone_house" /></i>
-        <h3>Rez-de-chaussée: Espace commercial et un Bureau</h3>
+        <h3>Ground floor : Retail Space and one office space</h3>
         <p></p>
       </div>
       <!-- end: --> 
       
       <!-- item -->
       <div class="col-md-3 text-center"><i class="circle"> <img src="images/3.png" alt="icone_house" /></i>
-        <h3>Mezzanine: 2 appartements résidentiels</h3>
+        <h3>Mezzanine: 2 residential units</h3>
         <p></p>
       </div>
       <!-- end: --> 
       
       <!-- item -->
       <div class="col-md-3 text-center"><i class="circle"> <img src="images/3.png" alt="icone_house" /></i>
-        <h3>Du 1er au 4eme étage : 7 appartements par étages</h3>
+        <h3>2nd to 5th floor: 7 residential units per floor.</h3>
         <p></p>
       </div>
       <!-- end: --> 
       
       <!-- item -->
       <div class="col-md-3 text-center"><i class="circle"> <img src="images/3.png" alt="icone_house" /></i>
-        <h3>Terrasse sur le toit : Piscine, espace de bronzage, salle de yoga et de sport.</h3>
+        <h3>Roof Top / Amenities: Pool and Deck, Yoga Room, Gym.</h3>
         <p></p>
       </div>
       <!-- end:--> 
@@ -176,8 +175,10 @@ ______$_______________________ _$
 <section id="work" class="page-section page">
   <div class="container text-center">
     <div class="heading">
+      <br>
       <h2>WYNWOOD ATRIUMS</h2>
-      <p>Ce projet va être construit dans une zone dite « d’opportunité» permettant aux investisseurs une exemption de l’impôt fédéral sur la plus-value.</p>
+      <p>This project will be built in an “opportunity zone” that provides a tax incentive 
+        for investors allow them to pay as little as $0 in capital gains on your next decade of investment returns.</p>
     </div>
     <div class="row">
       <div class="col-md-12">
@@ -195,7 +196,7 @@ ______$_______________________ _$
             <img src="images/work/1.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/1.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/1.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
           </li>
@@ -205,7 +206,7 @@ ______$_______________________ _$
             <img src="images/work/2.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/2.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/2.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
         </li>
@@ -214,7 +215,7 @@ ______$_______________________ _$
             <img src="images/work/3.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/3.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/3.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure>  
         </li>
@@ -223,7 +224,7 @@ ______$_______________________ _$
             <img src="images/work/4.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/4.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/4.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure>  
         </li>
@@ -232,7 +233,7 @@ ______$_______________________ _$
             <img src="images/work/5.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/5.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/5.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
         </li>
@@ -241,7 +242,7 @@ ______$_______________________ _$
             <img src="images/work/6.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/6.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/6.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
         </li>
@@ -250,7 +251,7 @@ ______$_______________________ _$
             <img src="images/work/7.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/7.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/7.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
         </li>
@@ -259,7 +260,7 @@ ______$_______________________ _$
             <img src="images/work/8.jpg" alt="img02"/>
             <figcaption>
               <h2>ATRIUMS</h2> 
-              <a href="images/work/8.jpg" class="fancybox">Plus d'infos</a> 
+              <a href="images/work/8.jpg" class="fancybox">View more</a> 
             </figcaption>     
           </figure> 
         </li>
@@ -279,24 +280,24 @@ ______$_______________________ _$
 <section class="page-section page">
   <div class="container text-center">
 
-  <h2>Livrés clé en main : Meublés avec cuisine totalement équipée, machine à laver et sèche-linge dans chaque logement. 
-            Surface d’environ 40 m2.</h2>
-  <h3>Tous les logements sont composés d’une chambre, une salle de bain, une pièce dressing, un salon, une salle à manger et une cuisine équipée. </h3>
-  <h1><strong>Prix de vente à partir de $299,500 </strong></h1>
-  <h4>Charges : environ $300 par mois</h4>
-  <h4>Livrés finis et prêts à être occupés fin 2020.</h4>
+  <h2>Turn-key micro units (450 square feet) totally furnished with modern kitchen, washer and dryer in each unit.</h2>
+  <h3>Every unit is fully furnished and will have 1 bedroom, 1 bathroom, Walking Closet, Living Room, Dining Room, Full Kitchen and Washer and Dryer. </h3>
+  <h1><strong>From $244,000</strong></h1>
+  <h4>Hoa fees : 0.66c/square feet (around $300 per month)</h4>
+  <h4>Finished and ready to be occupied by the end of 2020.</h4>
   
-  <h2> Modalités de paiement :</h2>
+  <h2>The deposit structure:</h2>
   
-    <h3>5% à la signature de la réservation </h3>
-    <h3>15% à la signature du contrat de vente </h3>
-    <h3>10% au commencement de la construction (dernier trimestre 2018) </h3>
-    <h3>20% à la fin de la construction (fin 2020) </h3>
-    <h3>50% à la livraison du projet </h3>
+    <h3>5% at Reservation Agreement</h3>
+    <h3>15% at Execution of Purchase Contract</h3>
+    <h3>10% at Groundbreaking</h3>
+    <h3>20% at Top Off</h3>
+    <h3>50% at Closing</h3>
 
   
-    <h2>L’estimation du tarif locatif à la nuitée se situe entre $130 et $160 (selon la saison).</h2>
-    <h2>Le prix de la location à long terme est compris entre $1500 et $1700 par mois.</h2>
+    <h2>Estimate of the daily rental: between $130 and $160 (depending on the season).</h2>
+    <h2>Estimate of long term rental between $1500 and $1700 per month.</h2>
+
   </div>
 </section>
 
@@ -305,38 +306,75 @@ ______$_______________________ _$
     <div class="heading text-center"> 
       <br>
       <!-- Heading -->
-      <h2>A propos de Nous</h2>
-      <p>Notre Phiosophie : Vous assurer rentabilité et tranquillité !</p>
+      <h2>About Us</h2>
+      <p>Our philosophy: Bringing Profitability and Tranquility to our customers!</p>
     </div>
     <div class="row feature design">
       <div class="area1 columns right">
-        <h3>Les Services De Florida Résidence</h3>
-        <p>Vous désirez acheter un bien immobilier en Floride ? </p>
-        <p>Notre Equipe se distingue par sa philosophie : Apporter Rentabilité et Tranquillité à nos clients ! </p>
-        <p>Vous cherchez un investissement purement locatif, à fort rendement et avec une plus-value substantielle à la clé ? Nous avons ce que vous désirez. Nous vous écoutons et vous accompagnons dans votre projet immobilier du début à la fin, et bien plus encore !
+        <h3>Florida Residence Services</h3>
+        <p>Are you looking for a rental investment property, with high returns or with potential capital gain? We have what you are looking for. We listen to you and help you in your real estate project from the beginning to the end, and much more!</p>
+        <p>A bilingual team at your service:</p>
+        <p>Specialized lawyers, accountants, tax specialists, reputable estate agents, rental management experts, insurance and financing brokers, these few members and partners make us the best bilingual French/English team in Florida.
          </p>
-         <h4>Une équipe Francophone à votre service</h4>
-         <p>Avocats spécialisés, agents immobiliers réputé, expert en gestion locative, courtiers en Assurances et Financements, Cabinet de garantie de loyers impayés, ces quelques membres constituent la meilleure équipe francophone de Floride.</p>
-         <p>Fort de notre expérience, notre structure regroupe différents pôles majeurs :</p>
-         <p>Acquisition/Achat, Marketing, Relation/Service Client, Vente, Assurances et Financements, Gestion Locative et Administrative, Garantie de loyers impayés</p>
-          <a href="https://floridaresidence.com/" target="_blank" class="btn">Notre Site Internet</a>
+          <a href="https://floridaresidence.com/" target="_blank" class="btn">Our Website</a>
       </div>
-      <div class="area2 columns feature-media left"> <img src="images/feature-img-1.png" alt="floridaresidence_logo"> </div>
+      <div class="area2 columns feature-media left"> <img src="images/feature-img-1.png" alt="floridaresidence_logo1"> </div>
     </div>
-    <div class="row dataTxt"> 
-            <div class="col-md-4 col-sm-4">
-              <h4>Prérequis à l’investissement…</h4>
+    <div class="row dataTxt">	
+						<div class="col-md-4 col-sm-4">
+							<h4>With our experience, our structure brings together two major departments:</h4>
+              <h5>1) Our department dedicated to help you to purchase or sell your property:</h5>
+							<p>Florida residence is a team of professionals dedicated to finding the best real estate deals of the moment, according to your price criteria and your project (return on Investment or Capital Gain).</p>
+
+							<br>
             <ul class="listArrow">
-               <li>Un investisseur étranger peut acquérir un bien en Floride sans aucun visa ou permis quelconque.</li>
-               <li>Inutile de faire le tour des agences immobilières de Miami. En Floride tous les biens à vendre sont répertoriés dans une base de données collective appelée MLS. Les agents disposent donc tous du même portefeuille immobilier.</li>
-               <li>Notre plus ? Nous avons accès à des biens hors MLS, non encore diffusés au grand public. Notre expérience avec les banques et promoteurs durant toutes ces années nous permis de garder des contacts auprès de plusieurs institutions, qui nous font part – en exclusivité – de leur stock à vendre.</li>
+                <li>Purchase, follow-up from the offer to the closing</li>
+                <li>Selection of properties according to your criteria</li>
+                <li>Visits of properties on the spot or in video in case of remote purchase</li>
+                <li>Calculation of the potential return on Investment </li>
+                <li>Company creation and annual filing</li>
+                <li>Payment of HOA fees and property taxes</li>
+                <li>Sales, marketing, follow-up of the sale process from the MLS to the closing</li>
               </ul>
-            </div>
-            <div class="col-md-4 col-sm-6">
-               <img src="images/img.jpg" alt="floridaresidence_logo1" >
-            </div>
-            
-          </div>
+                <p>We have a database of thousands of potential investors located in Europe looking for the best deals</p>
+                <p>We are currently managing a portfolio of more than 80 properties or our investors in Florida.</p>
+						</div>
+						
+						<div class="col-md-4 col-sm-4">
+							
+							<h5>2) Our Department dedicated to the property management:</h5>
+              <p>Services included in the rental management (10% of the rent): </p>
+                            <ul class="listArrow">
+              <li>Administrative Management,</li>
+              <li>Repair Management</li>
+              <li>Establishment of the management contract and signature of the lease</li>
+              <li>Collection of rents, </li>
+              <li>Payment of fees, water, electricity</li>
+              <li>Keeping the owner's bookkeeping and sending a monthly report</li>
+              <li>Mail management</li>
+              <li>Update of the rental price every year</li>
+              <li>3 days notices (Order to pay in case of payment delay)</li>
+							</ul>
+							</div>
+
+              <div class="col-md-4 col-sm-4">
+
+                <h5>Services with supplements:</h5>
+                                <ul class="listArrow">
+                <li>Search and insurance quotes</li>
+                <li>Eviction process</li>
+                <li>Bank transfer fees, according to the bank</li>
+                <li>Rental Commission</li>
+                <li>Annual filing and Registered agent of Your LLC</li>
+                <li>Payment of the property tax and insurance</li>
+                                </ul>
+						  </div>
+
+						<div class="col-md-4 col-sm-6">
+							 <img src="images/img.jpg" alt="floridaresidence_logo2">
+						</div>
+						
+					</div>
   </div>
 </section> 
 
@@ -348,13 +386,14 @@ ______$_______________________ _$
       </div>
       <div class="row feature design">
         <div class="area1 columns right">
-          <h3>Le quartier Artistique de Wynwood Miami</h3>
-          <p>Wynwood est situé au nord de Miami tout près du Design District (quartier de la mode haut de gamme), à 5 minutes du centre-ville, et à seulement 17 minutes des plages de South Beach. Il y a encore 5 ans, ce quartier était une zone industrielle mal fréquentée composée d’entrepôts industriels. </p>
-          <p>Depuis quelques années, avec l’aide de la ville et des promoteurs, de nombreux « street artistes » connus mondialement en ont fait la renommée du « Street-Art » (ou Art-Urbain) aux Etats-Unis et dans le monde. C’est aujourd’hui un endroit unique en son genre.
-          De nombreuses fresques murales multicolores décorent tous les murs du quartier et de nouveaux restaurants, bars, galeries d’art et magasins branchés y voient le jour.  
-          On y dénombre aujourd’hui 70 galeries d'art et une vingtaine de restaurants. </p>
-          <p>L’événement gratuit, intitulé "Art Walk", attire un nombre impressionnant de résidents et de touristes tous les seconds samedis de chaque mois. Les artistes exposent et peignent leurs œuvres en direct dans une ambiance festive. 
-          De nouvelles fresques y sont ajoutées régulièrement et la majeure partie d’entre elles sont renouvelées tous les ans au moment de Art Basel. 
+          <h3>The Wynwood Miami Art district</h3>
+          <p>Wynwood is in the North of Miami near the Design District (fashion district), 5 minutes from downtown, and just 17 minutes from of South Beach and the ocean. </p>
+          <p>Five years ago, this district was a poorly attended industrial area made up of industrial warehouses.
+              In recent years, with the help of the city and developers, many "street artists" known worldwide have made the name of "Street-Art" (or Art-Urban) in the United States and around the world. Today, it is a unique place of its kind.
+              Many multicolored murals decorate all the walls of the neighborhood and new restaurants, bars, art galleries and trendy shops are emerging.
+              Today there are 70 art galleries and 20 restaurants.</p>
+          <p>The free event, "Art Walk", attracts an impressive number of residents and tourists every second Saturday of the month. Artists exhibit and paint their works live in a fun atmosphere.
+                  New murals are added regularly and most of them are renewed every year during the Art Basel event in December.
           </p>
         </div>
         <div class="area2 columns feature-media left"> <img src="images/feature-img-2.png" alt="floridaresidence_logo4"> </div>
@@ -368,7 +407,7 @@ ______$_______________________ _$
     <div class="heading text-center"> 
       <br>
       <!-- Heading -->
-      <h2>Équipe</h2>
+      <h2>Team</h2>
 <!--       <p>At variations of passages of Lorem Ipsum available, but the majority have suffered alteration..</p>
  -->    </div>
     <!-- Team Member's Details -->
@@ -385,11 +424,12 @@ ______$_______________________ _$
             <div class="team-title">
 			<h4>Thibaut GUEANT</h4>
             <!-- Designation --> 
-            <span class="pos">PDG</span>
+            <span class="pos">CEO</span>
 			</div>
 <!--             <div class="team-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>
  -->          </div>
         </div>
+
         <div class="col-md-4 col-sm-6 col-xs-12"> 
           <!-- Team Member -->
           <div class="team-member pDark"> 
@@ -400,7 +440,7 @@ ______$_______________________ _$
             <!-- Member Details -->
             <h4>Christelle DUMONTET</h4>
             <!-- Designation --> 
-            <span class="pos">Agent Immobilier</span>
+            <span class="pos">Real Estate Agent</span>
 <!--             <div class="team-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>
  -->          </div>
         </div>
@@ -414,7 +454,7 @@ ______$_______________________ _$
             <!-- Member Details -->
             <h4>Christelle LARGEAIS</h4>
             <!-- Designation --> 
-            <span class="pos">Gestionnaire Immobilier</span>
+            <span class="pos">Property Manager</span>
 <!--             <div class="team-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>
  -->          </div>
         </div>
@@ -430,28 +470,29 @@ ______$_______________________ _$
         <div class="heading text-center"> 
           <br>
           <!-- Heading -->
-          <h2>Plus Informations</h2>
-          <p>Veuillez remplir le formulaire ci-dessous.</p>
+          <h2>More Informations</h2>
+          <p>Please fill out the form below to receive information of the Project in a PDF Brochure.</p>
+        </div>
       </div>
       <div class="row mrgn30">
-<form accept-charset="UTF-8" action="https://sy417.infusionsoft.com/app/form/process/74a773eb62b13a1fb0d07ad91467060c" class="infusion-form" id="inf_form_74a773eb62b13a1fb0d07ad91467060c" method="POST">
+<form accept-charset="UTF-8" action="https://sy417.infusionsoft.com/app/form/process/5411cdbf2945428fcae65c068b7de236" class="infusion-form" id="inf_form_5411cdbf2945428fcae65c068b7de236" method="POST">
           <div class="col-sm-12">
 
             <div class="form-group">
-    <input name="inf_form_xid" type="hidden" value="74a773eb62b13a1fb0d07ad91467060c" />
-    <input name="inf_form_name" type="hidden" value="Atrium French" />
-    <input name="infusionsoft_version" type="hidden" value="1.70.0.67978" />
-            <label for="inf_field_FirstName">Prénom</label>
-              <input class="form-control" id="inf_field_FirstName" name="inf_field_FirstName" placeholder="Prénom *" type="text" />
+    <input name="inf_form_xid" type="hidden" value="5411cdbf2945428fcae65c068b7de236" />
+    <input name="inf_form_name" type="hidden" value="Atrium" />
+    <input name="infusionsoft_version" type="hidden" value="1.70.0.67000" />
+            <label for="inf_field_FirstName">First Name</label>
+              <input class="form-control" id="inf_field_FirstName" name="inf_field_FirstName" placeholder="First Name *" type="text" />
             </div>
             <div class="form-group">
-                <label for="inf_field_LastName">Nom</label>
-                 <input class="form-control" id="inf_field_LastName" name="inf_field_LastName" placeholder="Nom *" type="text" />
+                <label for="inf_field_LastName">Last Name</label>
+                 <input class="form-control" id="inf_field_LastName" name="inf_field_LastName" placeholder="Last Name *" type="text" />
             </div>
             <div class="form-group">
-               <label for="inf_field_Email">Courriel</label>
-               <input class="form-control" id="inf_field_Email" name="inf_field_Email" placeholder="Courriel *" type="text" />
-               <button class="btn btn-lg btn-primary"  type="submit">Soumettre</button>
+               <label for="inf_field_Email">Email</label>
+               <input class="form-control" id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
+               <button class="btn btn-lg btn-primary"  type="submit">Submit</button>
             </div>
             <div class="result"></div>
           </div>
@@ -460,7 +501,6 @@ ______$_______________________ _$
     </div>
     <!--/.container--> 
   </div>
-</div>
 </section>
 
     
@@ -479,12 +519,12 @@ ______$_______________________ _$
         <div class="row">
             <div class="col-md-6">
             	<div class="col">
-                   <h4>Contactez-Nous</h4>
+                   <h4>Contact us</h4>
                    <ul>
-                        <li>17971 Biscayne Blvd suite 221, Aventura, FL 33160 - États Unis</li>
+                        <li>17971 Biscayne Blvd suite 221, Aventura, FL 33160 - United States</li>
                         <li>Phone: +33 7 56 78 79 96  | +1(786) 301-8197 </li>
                         <li>Email: <a href="mailto:Equipe@floridaresidence.com" title="Email Us">Equipe@floridaresidence.com</a></li>
-                        <li>Site Internet: <a href="http://floridaresidence.com" title="Website">www.floridaresidence.com</a></li>
+                        <li>Website: <a href="http://floridaresidence.com" title="Website">www.floridaresidence.com</a></li>
                     </ul>
                  </div>
             </div>
@@ -506,7 +546,7 @@ ______$_______________________ _$
             
             <div class="col-md-6">
             	<div class="col col-social-icons">
-                    <h4>Suivez nous sur les Médias Sociaux</h4>
+                    <h4>Follow us</h4>
                     <a href="https://www.facebook.com/FL0RIDARESIDENCE" target="_blank" ><i class="fa fa-facebook"></i></a>
                     <a href="https://plus.google.com/u/0/102034625330898567403" target="_blank" ><i class="fa fa-google-plus"></i></a>
                     <a href="https://www.youtube.com/channel/UCjsmHKQZgnmGwB8IdXd2Kig?sub_confirmation=1" target="_blank" ><i class="fa fa-youtube-play"></i></a>
@@ -539,7 +579,7 @@ ______$_______________________ _$
     <div class="row">
       <div class="col-sm-12 text-center">
         <a href="https://floridaresidence.com/" target="_blank" > Florida Residence  
-        </a> Copyright © 2018 Tous droits réservés.  -- Made with &hearts; par  
+        </a> Copyright 2018 | All Rights Reserved -- Template by -  
         <a href="http://vdmk.eu"> VDMK</a> 
       </div>
     </div>
@@ -562,8 +602,10 @@ ______$_______________________ _$
 <script src="https://sy417.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 <script src="https://sy417.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.64288"></script>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
-<script type="text/javascript" src="https://sy417.infusionsoft.com/app/webTracking/getTrackingCode"></script>
-<script type="text/javascript" src="https://sy417.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.67978"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
-<script type="text/javascript" src="https://sy417.infusionsoft.com/app/timezone/timezoneInputJs?xid=74a773eb62b13a1fb0d07ad91467060c"></script>
+<script src="https://sy417.infusionsoft.com/app/timezone/timezoneInputJs?xid=c546dc9f00f0c5070246489e695a1f8f"></script>
+
+
+<script src="https://sy417.infusionsoft.com/app/webTracking/getTrackingCode"></script>
+<script src="https://sy417.infusionsoft.com/app/timezone/timezoneInputJs?xid=5411cdbf2945428fcae65c068b7de236"></script>
+
 </html>
